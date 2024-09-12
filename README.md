@@ -10,7 +10,7 @@ Now just open the file whenever you want to have copilot on your pc.
 
 
 
-# OBS 
+# Please note 
 Copilot gets removed after restarting the PC so just open the file again. 
 I am aware there is to many batch files but idc rn and it works. 
 (I might change that soon)
