@@ -7,12 +7,11 @@ Then move the file called Cobat with the copilot logo to wherever you want to st
 Now just open the file whenever you want to have copilot on your pc. 
 
 
-# OBS: Copilot gets removed after restarting the PC so just open the file again. 
 
 I am aware there is to many batch files but idc rn and it works. 
 (I might change that soon)
 
 
-
-
 Credit: I got the reg file from here https://www.reddit.com/r/Windows11/comments/1cb590q/copilot_not_available_in_windows_settings_and/
+
+# OBS: Copilot gets removed after restarting the PC so just open the file again. 
