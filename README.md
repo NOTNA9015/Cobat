@@ -3,7 +3,7 @@ An open source program that makes Copilot available to anyone
 
 
 
-# Guide (Source Code)
+# Guide (Batch File/Source Code)
 Move the Cobat folder into the C drive (Make sure there is no additional folders inside)
 Then move the file called Cobat with the copilot logo to wherever you want to start the program from. 
 Now just open the file whenever you want to have copilot on your pc. 
