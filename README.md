@@ -12,7 +12,7 @@ Press Win + C to activate
 
 
 # Guide (EXE)
-Just open the exe file you downloaded then press Win + C
+Just open the exe file you downloaded. Press Win + C to activate
 
 
 # Please note 
