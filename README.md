@@ -1,5 +1,5 @@
 # Cobat
-An app that makes Copilot available to anyone
+An open source program that makes Copilot available to anyone
 
 
 
