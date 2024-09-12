@@ -1,0 +1,1 @@
+C:\Cobat\Cobat_Middle.lnk
