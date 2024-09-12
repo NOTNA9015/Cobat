@@ -17,7 +17,7 @@ Just open the exe file you downloaded then press Win + C
 
 # Please note 
 Copilot gets removed after restarting the PC so just open the file again. 
-The exe is flagged as a virus on windows 11 so just download the bat if you don't want to deal with windows defender. 
+The exe is flagged as a virus on windows 11 so just download the batch file if you don't want to deal with windows defender. 
 I am aware there is to many batch files but idc rn and it works. 
 (I might change that soon)
 
