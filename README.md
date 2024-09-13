@@ -4,7 +4,7 @@ An open source program that makes Copilot available to anyone
 
 
 # Guide (CMD)
-All you need to do is run one of these files as admin and Copilot will permanently be on your pc!
+All you need to do is run one of the bat/exe file as admin and Copilot will permanently be on your pc!
 
 # Guide (No CMD)
 All you need to do is run one of these files as admin and Copilot will permanently be on your pc!
