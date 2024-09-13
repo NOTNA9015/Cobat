@@ -20,7 +20,12 @@ Press Win + C to activate
 
 
 
-# Please note 
+# Please note
+The exe is flagged as a virus on windows 11 so just download the bat file if you don't want to deal with windows defender. (It's of course a false positive and Cobat is not a virus or any type of malware). 
+
+
+
+# Please note (Old)
 Copilot gets removed after restarting the PC so just open the file again. 
 The exe is flagged as a virus on windows 11 so just download the batch file if you don't want to deal with windows defender. (It's of course a false positive and Cobat is not a virus or any type of malware)
 I am aware there is to many batch files but idc rn and it works. 
