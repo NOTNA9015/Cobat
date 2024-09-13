@@ -1,1 +1,0 @@
-reg import C:\Cobat\Cobat.reg
