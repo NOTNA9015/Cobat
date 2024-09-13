@@ -4,7 +4,7 @@ An open source program that makes Copilot available to anyone
 
 
 # Guide (CMD)
-All you need to do is run the bat/exe file as admin and Copilot will permanently be available on your pc!
+All you need to do is run the bat/exe file as admin and Copilot will permanently be available on your pc! The exe is flagged as a virus therefore the bat file is recommended. (Cobat is not a virus and completely safe). 
 
 # Guide (No CMD)
 All you need to do is run the bat/exe file as admin and Copilot will permanently be available on your pc!
