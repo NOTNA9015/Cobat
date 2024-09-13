@@ -12,26 +12,10 @@ With this version there is no longer a CMD window on startup but it is flagged a
 
 
 
-# Guide (Old)
-Move the Cobat folder into the C drive (Make sure there is no additional folders inside)
-Then move the file called Cobat with the copilot logo to wherever you want to start the program from. 
-Now just open the file whenever you want to have copilot on your pc. 
-Press Win + C to activate
-
-
-
 # Please note
 The exe is flagged as a virus on windows 11 so just download the bat file if you don't want to deal with windows defender. (It's of course a false positive and Cobat is not a virus or any type of malware). 
 The **No CMD** files add exclutions for the entire user folder so use those versions at your own risk as it makes it easier for malware to go undetected. 
 The only difrence between the exe and bat is that the bat opens a **CMD** window and the exe doesn't (The **No CMD** version of the bat only opens when you run it the first time and the **CMD** exe opens a **CMD** when the PC starts)
-
-
-
-# Please note (Old)
-Copilot gets removed after restarting the PC so just open the file again. 
-The exe is flagged as a virus on windows 11 so just download the batch file if you don't want to deal with windows defender. (It's of course a false positive and Cobat is not a virus or any type of malware)
-I am aware there is to many batch files but idc rn and it works. 
-(I might change that soon)
 
 
 
