@@ -9,4 +9,6 @@ powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releas
 powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/Pull/Cobat.Shortcut.lnk' -OutFile 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Cobat Short.lnk'"
 cd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 Cobat.exe
+echo Cobat installed successfully
+pause
 taskkill /F /IM cmd.exe
