@@ -4,8 +4,10 @@ An open source program that makes Copilot available to anyone
 
 
 # Guide
-All you need to do is run the bat/exe file as admin and Copilot will permanently be available on your pc!
-There is no longer a CMD window on startup but it is flagged as a virus. (Cobat is not a virus and completely safe). The bat/exe file will automatically add exclusions for the files needed however it can't do it before you open the file therefore the bat file is recommended. 
+1. Download the `cobat.install.bat` from releases and double click to run it. 
+2. Press more info then run anyway.
+3. Press yes when to pop up appears. 
+4. Now just wait until it's done and press any key to finish installing Cobat. 
 
 
 
