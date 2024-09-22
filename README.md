@@ -14,7 +14,7 @@ An open source program that makes Copilot available to anyone
 # Guide (One line cmd install)
 1. Paste this into cmd. 
   ````powershell
-powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/2.7.4/cobat.bat' -OutFile '%localappdata%\cobat.bat'"
+powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/2.7.5/cobat.bat' -OutFile '%localappdata%\cobat.bat'"
 cd %localappdata%
 start cobat.bat
 cobat
