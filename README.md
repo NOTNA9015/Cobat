@@ -3,11 +3,23 @@ An open source program that makes Copilot available to anyone
 
 
 
-# Guide
+# Guide (Long)
 1. Download the `cobat.install.bat` from releases and double click to run it. 
-2. Press more info then run anyway.
-3. Press yes when the pop up appears. 
-4. Now just wait until it's done and press any key to finish installing Cobat. 
+2. Press more info then run anyway. 
+3. Click yes when the pop up appears. 
+4. Now just follow the prompts. 
+
+
+
+# Guide (Short)
+1. Open cmd on your pc. 
+2. Copy and paste ```powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/2.7.1/cobat.bat' -OutFile '%localappdata%\cobat.bat'"
+cd %localappdata%
+start cobat.bat
+cobat```
+3. Click paste anyway. 
+4. Click yes when the pop up appears. 
+5. Now just follow the prompts. 
 
 
 
