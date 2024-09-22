@@ -19,9 +19,8 @@ cd %localappdata%
 start cobat.bat
 cobat
   ````
-2. Click paste anyway. 
-3. Click yes when the pop up appears. 
-4. Now just follow the prompts. 
+2. Click yes when the pop up appears. 
+3. Now just follow the prompts. 
 
 
 
