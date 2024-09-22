@@ -4,7 +4,7 @@ An open source program that makes Copilot available to anyone
 
 
 # Guide (Batch install)
-1. Download the `cobat.install.bat` from releases and double click to run it. 
+1. Download `cobat.bat` from releases and double click to run it. 
 2. Press more info then run anyway. 
 3. Click yes when the pop up appears. 
 4. Now just follow the prompts. 
