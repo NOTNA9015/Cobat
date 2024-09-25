@@ -23,4 +23,4 @@ powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releas
 
 # Please note
 Cobat adds a lot of exclusions to a buch of different folders since windows defender is not a huge fan. Which could open doors to real malware so use at your own risk. 
-Also if you have any other antivirus than windows defender you have the add the exclusions manually. 
+### If you have any other antivirus than windows defender you have the add the exclusions manually.
