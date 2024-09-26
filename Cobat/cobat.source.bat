@@ -115,7 +115,7 @@ TIMEOUT /T 1 >nul 2>&1
 cls
 call :Banner
 echo Downloaded
-start https://github.com/NOTNA9015/Cobat/releases/download/Pull/cobat.bat
+start https://github.com/NOTNA9015/Cobat/releases/download/2.8.0.1/cobat.bat
 pause & exit
 
 :Banner
