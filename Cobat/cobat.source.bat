@@ -6,7 +6,6 @@ cls
 call :Banner
 Ping www.google.nl -n 1 -w 1000 >nul 2>&1
 cls
-call :Banner
 if errorlevel 1 (color 4 & echo   ERROR: Cobat needs a stable internet connection to download & TIMEOUT /T 5 >nul 2>&1 & exit) else (goto :BannerSlow)
 
 echo %internet%
