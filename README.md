@@ -1,5 +1,7 @@
 # Cobat
 An open source program that makes Copilot available to anyone
+Join the discord https://discord.gg/h7pPjcwSMX
+
 
 
 
