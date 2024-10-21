@@ -1,3 +1,7 @@
+# Cobat is not functional at the momment
+Do to windows patching some stuff cobat is no longer working. 
+
+
 # Cobat
 An open source program that makes Copilot available to anyone. 
 
