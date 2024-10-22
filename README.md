@@ -1,6 +1,6 @@
 # Cobat is not functional at the momment
-Do to windows patching some stuff cobat is no longer working. 
-Cobye is still working
+Do to windows patching some stuff cobat is no longer functional. 
+Cobye is still functional. 
 
 
 # Cobat
