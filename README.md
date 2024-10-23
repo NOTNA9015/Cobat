@@ -22,7 +22,7 @@ Join the discord https://discord.gg/h7pPjcwSMX
 # Guide (One line cmd install)
 1. Paste this into cmd and press enter. 
   ````powershell
-powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/Pull/Cobat.bat' -OutFile '%localappdata%\Cobat.bat'" & cd %localappdata% & Cobat.bat
+powershell -c "Invoke-WebRequest -Uri 'https://github.com/NOTNA9015/Cobat/releases/download/Pull/Cobye.bat' -OutFile '%localappdata%\Cobye.bat'" & cd %localappdata% & Cobye.bat
   ````
 2. Click yes when the pop up appears. 
 3. Now just follow the prompts. 
